@@ -1,6 +1,6 @@
 ---
 name: restart-handoff
-description: Hand off to a new chat on เริ่มใหม่; save context, launch Claude and verify receipt. Not for restarting devices/apps/tasks.
+description: Hand off to a new chat on เริ่มใหม่ or another request to move to a new chat (ย้ายไปแชตใหม่); performs the เก็บหมด save itself, launches Claude and verifies receipt. Not for restarting devices/apps/tasks.
 ---
 
 # Restart handoff
